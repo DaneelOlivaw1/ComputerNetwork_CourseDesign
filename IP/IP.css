@@ -1,0 +1,10 @@
+.AtimationArea{
+    width: 1000px;
+    height: 800px;
+    border: solid 5px #bd2020;
+    text-align: center;
+}
+div{
+    border: solid 5px #b81515;
+    text-align: center;
+}
